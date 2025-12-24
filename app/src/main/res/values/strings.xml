@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyNotes</string>
+
+    <!-- Liste des notes -->
+    <string name="mes_notes">Mes Notes</string>
+    <string name="aucune_note">Aucune note</string>
+    <string name="ajouter_note_hint">Appuyez sur + pour ajouter une note</string>
+
+    <!-- Formulaire ajout note -->
+    <string name="nouvelle_note">Nouvelle Note</string>
+    <string name="titre_hint">Titre de la note</string>
+    <string name="description_hint">Description</string>
+    <string name="date_hint">Date</string>
+    <string name="priorite_label">Priorité</string>
+    <string name="photo_optionnelle">Ajouter une photo (optionnel)</string>
+    <string name="prendre_photo">Prendre Photo</string>
+    <string name="galerie">Galerie</string>
+    <string name="enregistrer">Enregistrer la note</string>
+
+    <!-- Détails note -->
+    <string name="details_note">Détails de la Note</string>
+    <string name="date_label">Date: %s</string>
+    <string name="priorite_format">Priorité: %s</string>
+    <string name="description_label">Description</string>
+    <string name="photo_label">Photo</string>
+    <string name="retour">Retour à la liste</string>
+
+    <!-- Messages -->
+    <string name="note_ajoutee">Note ajoutée avec succès</string>
+    <string name="nom_requis">Le nom est requis</string>
+    <string name="description_requise">La description est requise</string>
+    <string name="photo_capturee">Photo capturée avec succès</string>
+    <string name="image_selectionnee">Image sélectionnée avec succès</string>
+    <string name="erreur_fichier">Erreur lors de la création du fichier</string>
+
+    <!-- Priorités -->
+    <string name="priorite_basse">Basse</string>
+    <string name="priorite_moyenne">Moyenne</string>
+    <string name="priorite_haute">Haute</string>
+</resources>
